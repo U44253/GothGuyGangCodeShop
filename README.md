@@ -1,0 +1,2 @@
+# hello-world
+My name is U44253. Of course, that's not the name my mother gave me, but it IS my name. It's a Florida Dept. of Corrections Inmate ID Number. But it's not just ANY Florida Dept. of Corrections Inmate ID Number. It's the one that was assigned to Andrew Brian Boyett in May of 2018 when he arrived at RMC Lake Butler for his reception into the Florida Dept. of Corrections. The purpose for this repository is to catalogue and organize any and all programming-based elements of my multi-media art project based on my own life, "Things That Happened".
